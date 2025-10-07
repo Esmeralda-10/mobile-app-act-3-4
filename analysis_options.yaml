@@ -1,0 +1,6 @@
+include: package:lints/core.yaml
+
+linter:
+  rules:
+    no_wildcard_variable_uses: false
+    type_literal_in_constant_pattern: false
